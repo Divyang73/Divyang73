@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MorningStar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&center=true&vCenter=true&width=600&lines=🔭+I'm+currently+learning+new+things;🌱+carpeing+diem" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD+I%27m+currently+learning+new+things;%F0%9F%8C%B1+carpeing+diem" alt="Typing Animation" />
 </p>
 
 - 💻 Check out my top projects: 
