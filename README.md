@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm MorningStar
 
-<!--
-**Divyang73/Divyang73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning **new things**
+- 🌱 I'm currently **carpeing diem**
+- 💻 Check out my top projects: 
+  - [**Plinko Game**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics-based casino simulation.
+  - [**Korf Rubik's Solver**](https://github.com/Divyang73/korf-Rubiks-ag) - A full-stack (React/FastAPI) integration of a high-performance C++ solver.
+- 📫 Reach me at: **vanjaradivyang@gmail.com**
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyang-vanjara-2a034a325">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vanjaradivyang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vanjaradivyang@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Divyang73">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
+
+### My Skill Set
+
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages" />
+</p>
+
+#### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Web Dev" />
+</p>
+
+#### Backend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Backend" />
+</p>
+
+#### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Databases" />
+</p>
+
+#### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Tools" />
+</p>
+
+<br/>
+
+### Problem Solving
+
+<p align="left">
+  <a href="https://leetcode.com/divyang73">
+    <img src="https://leetcard.jacoblin.cool/divyang73?theme=dark&font=Inter" alt="LeetCode Stats" />
+  </a>
+</p>
