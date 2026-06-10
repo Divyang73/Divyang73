@@ -1,9 +1,11 @@
-# Hi 👋, I'm MorningStar
+<h1 align="center">Hi 👋, I'm MorningStar</h1>
 
-- 🔭 I’m currently learning **new things**
-- 🌱 I'm currently **carpeing diem**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&center=true&vCenter=true&width=600&lines=🔭+I'm+currently+learning+new+things;🌱+carpeing+diem" alt="Typing Animation" />
+</p>
+
 - 💻 Check out my top projects: 
-  - [**Plinko Game**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics-based casino simulation.
+  - [**Plinko Game**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics engine and probability simulator.
   - [**Korf Rubik's Solver**](https://github.com/Divyang73/korf-Rubiks-ag) - A full-stack (React/FastAPI) integration of a high-performance C++ solver.
 - 📫 Reach me at: **vanjaradivyang@gmail.com**
 
