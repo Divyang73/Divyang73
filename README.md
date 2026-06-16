@@ -5,7 +5,7 @@
 </p>
 
 - 💻 Check out my top projects: 
-  - [**Plinko Game**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics engine and probability simulator.
+  - [**Plinko Engine**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics engine and probability simulator.
   - [**Korf Rubik's Solver**](https://github.com/Divyang73/korf-Rubiks-ag) - A full-stack (React/FastAPI) integration of a high-performance C++ solver.
 - 📫 Reach me at: **vanjaradivyang@gmail.com**
 
