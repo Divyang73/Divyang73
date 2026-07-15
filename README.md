@@ -5,7 +5,8 @@
 </p>
 
 - 💻 Check out my top projects:
-  -- [**Document Mangment**](https://github.com/Divyang73/enterprise-ai-dms) -automate document classification, extraction, and search for enterprise-grade workflows
+  
+  -[**Document Mangment**](https://github.com/Divyang73/enterprise-ai-dms) -automate document classification, extraction, and search for enterprise-grade workflows
   - [**Plinko Engine**](https://github.com/Divyang73/Plinko-Game) - A deterministic physics engine and probability simulator.
   - [**Korf Rubik's Solver**](https://github.com/Divyang73/korf-Rubiks-ag) - A full-stack (React/FastAPI) integration of a high-performance C++ solver.
 - 📫 Reach me at: **vanjaradivyang@gmail.com**
